@@ -1,0 +1,3 @@
+1.Chiziqli qidiruvni tushunish va kodlash oson.
+Boshqa qidiruv algoritmlaridan farqli o'laroq, chiziqli qidiruv mavjud ma'lumotlar tuzilmasida ishlagani uchun qo'shimcha joy talab qilmaydi.
+ Linear searchni minus tarafi vaqt kuproq ketishi chunki siz  ketmat - ket tekshiradi.
